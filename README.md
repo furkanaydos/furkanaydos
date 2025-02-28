@@ -10,7 +10,7 @@ I am a passionate and dedicated Software Engineering student with hands-on exper
 ## 💻 Technical Skills
 
 - **Languages**: C, C++, C#, Python, SQL, HTML/CSS
-- **Development Areas**: Object-Oriented Programming, Data Structures, Frontend and Backend Development
+- **Development Areas**: Object-Oriented Programming, Data Structures, Machine Learning, Frontend and Backend Development
 
 ---
 
