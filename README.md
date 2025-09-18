@@ -2,8 +2,7 @@
 
 # Welcome to my GitHub profile!  
 
-I am **Furkan Aydos**, a **Software Engineering student** passionate about **software development and machine learning**.  
-I enjoy exploring how technology can be applied in real-world scenarios and continuously improving my skills through both academic and practical experiences.    
+I am **Furkan Aydos**, a **Software Engineering student** passionate about **software development and machine learning**. I enjoy exploring how technology can be applied in real-world scenarios and continuously improving my skills through both academic and practical experiences.    
 
 ---
 
