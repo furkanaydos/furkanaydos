@@ -5,14 +5,13 @@
 I am **Furkan Aydos**, a **Software Engineering student** passionate about **software development and machine learning**.  
 I enjoy exploring how technology can be applied in real-world scenarios and continuously improving my skills through both academic and practical experiences.  
 
-Through my internships, I had the opportunity to closely observe the industry, gain hands-on practice, and strengthen my technical background.  
-I am eager to keep learning, enjoy working in teams, and aspire to contribute my knowledge to projects that create value.  
+Through my internships, I had the opportunity to closely observe the industry, gain hands-on practice, and strengthen my technical background. I am eager to keep learning, enjoy working in teams, and aspire to contribute my knowledge to projects that create value.  
 
 ---
 
 ## 🚀 About Me  
 
-- 🎓 **Software Engineering Student**  
+- 🎓 4th-year **Software Engineering Student**  
 - 💻 Interests: **Software Development, Machine Learning, and Innovative Applications of Technology**  
 
 ---
